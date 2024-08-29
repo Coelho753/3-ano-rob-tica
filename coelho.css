@@ -1,0 +1,101 @@
+title {
+    text-align: center;
+}
+
+h1 {
+    position: static;
+    width: 1390px;
+    padding: 50px;
+    background-color: pink;
+    color: black;
+    border: 10px solid pink;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 50px solid rgb(241, 163, 163);
+    border-top: 50px solid  rgb(241, 163, 163);
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    height: 10px;
+}
+
+h2 {
+    position: static;
+    width: 1100px;
+    padding: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    position: static;
+    width: 1100px;
+    padding: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+h4 {
+    position: static;
+    width: 1525px;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+iframe {
+    position: static;
+    width: 1000px;
+    padding: 150px;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+p {
+    position: static;
+    width: 1100px;
+    padding: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-style: oblique;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+section {
+    width: 1350px;
+    padding: 2rem 1rem;
+    border-radius: 50px;
+    background-color: rgb(241, 163, 163);;
+    border: 50px solid pink;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    position: relative;
+    line-height: 1px;
+    margin: 10px;
+}
+
+button {
+    width: 350px;
+    padding: 1rem 1rem;
+    background-color: pink;
+    color: black;
+    border: 10px solid pink;
+    border-radius: 70px;
+    text-align: center;
+    display: inline-block;
+    justify-content: center;   
+    margin: 7px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(240, 169, 179);
+}
